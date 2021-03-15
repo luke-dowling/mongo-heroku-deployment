@@ -1,7 +1,7 @@
 # mongo_ex
 
 
-Please create a small API that can handle users and posts.
+Please create a small API that can handle users and articles.
 The endpoints available should be
   - `GET` /users
   - `POST` /users
@@ -10,7 +10,7 @@ The endpoints available should be
 
 Create your data models for users and articles to match the following examples.
 All fields should be required.
-And please add some timestamps
+And please add some timestamps.
 
 
 ##### USER
